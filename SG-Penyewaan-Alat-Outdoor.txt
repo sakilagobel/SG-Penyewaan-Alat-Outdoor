@@ -6,3 +6,4 @@ Data Penyewaan Alat Outdoor
 - Alat yang disewa
 - Jumlah alat yang disewa
 - Lama waktu penyewaan
+- Harga penyewaan per hari
